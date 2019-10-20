@@ -1,0 +1,60 @@
+.header{
+text-align: center;
+}
+
+.content .login-title h1{
+    text-align: center;
+    font-family: 'Abel', sans-serif;
+    font-size: 40px;
+
+}
+
+.content .login-title h3{
+    text-align: center;
+}
+
+.login-box{
+  background-color: lightgrey;
+  border: 2px solid green;
+  margin: auto;
+  height: 400px;
+  width: 400px;
+}
+
+.profile-img{
+    display: block;
+    margin:auto;
+    margin-top: 15px;
+}
+
+.login-box{
+    text-align:center;
+}
+
+input{
+    width: 75%;
+    height:10%;
+}
+
+button{
+    width: 75%;
+    height:10%;
+    background-color: blue;
+    color: white;
+}
+
+.new-account {
+    text-align: center;
+    display: block;
+    margin-top: 10px;
+    color: #337ab7;
+}
+
+p{
+text-align:center;
+}
+
+.footer li{
+    display: inline-block;
+    padding: 5px;
+}
